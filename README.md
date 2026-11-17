@@ -71,7 +71,7 @@ winget install Microsoft.PowerShell
 ### Pobranie narzędzia
 
 ```bash
-git clone https://github.com/<twoje-konto>/szkolnyasystent365.git
+git clone https://github.com/wojcieh/szkolnyasystent365.git
 cd szkolnyasystent365
 ```
 
