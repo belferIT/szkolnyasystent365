@@ -1,0 +1,14 @@
+# Dane osobowe uczniów i hasła startowe - NIGDY nie trafiają do repozytorium
+*.csv
+*.xlsx
+*.xls
+*.html
+przetworzone_id.txt
+logi/
+
+# Kopie zapasowe i pliki tymczasowe
+*.bak*
+*.tmp
+*~
+.DS_Store
+Thumbs.db
